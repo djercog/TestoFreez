@@ -1,4 +1,4 @@
-# Freezing detection from thermographic videos (Winke et al. 2022, XXX)
+# Freezing detection from thermographic videos.
 
 This is a Matlab script used to detect freezing episodes from thremographic camera videos (Testo885) on hot-plate experiments (used in Winke et al. 2022, XXX).
 
