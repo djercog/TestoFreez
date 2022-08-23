@@ -12,3 +12,5 @@ Briefly, the video analysis algorithm:
 - Mask the area corresponded to mouse for individual image frames.
 - Perform consecutive frame image substraction and compute instantaneous % area change.
 - Threshold % area change to detect freezing periods.
+
+![image](https://user-images.githubusercontent.com/28762337/186142723-75874576-17e5-428c-9239-4fd8a2f7d2af.png)
