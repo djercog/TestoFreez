@@ -11,4 +11,4 @@ Briefly, the video analysis algorithm:
 - Binarize individual image frames based on automatic thresholding Otsu's method (Ref).
 - Mask the area corresponded to mouse for individual image frames.
 - Perform consecutive frame image substraction and compute instantaneous % area change.
-- 
+- Threshold % area change to detect freezing periods.
