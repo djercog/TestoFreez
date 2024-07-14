@@ -1,6 +1,6 @@
 # Freezing detection from thermographic videos.
 
-This repository contains Matlab scripts used to detect freezing episodes from thremographic camera videos (Testo885) on hot-plate experiments (used in Winke et al. 2022, XXX).
+This repository contains Matlab scripts used to detect freezing episodes from thremographic camera videos (Testo885) on hot-plate experiments (used in Winke, Aby, Jercog et al. 2024, XXX).
 
 
 - Define ROI that includes the hotplate area.
